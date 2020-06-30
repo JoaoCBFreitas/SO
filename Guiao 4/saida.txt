@@ -1,0 +1,3 @@
+Isto vai ser escrito no saida
+Input no STDOUT
+Isto vai ser escrito no saida
